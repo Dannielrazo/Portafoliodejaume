@@ -5,13 +5,12 @@
 </div>
 
 ## Desktop
-
-<img width="400px"  src="https://raw.githubusercontent.com/dannielrazo/design/portafolio.png" />
+![portfolio-1](https://user-images.githubusercontent.com/63891533/152889116-27c42b47-3bca-44bf-8797-ceeb2436ff21.png)
 
 
 ## Mobile
 
-<img width="400px" src="./design/portafolio.png" />
+![portfolio](https://user-images.githubusercontent.com/63891533/152888917-7d17ba46-6104-4031-9173-e8eedae11c3b.png)
 
 ## Disclaimer
 
