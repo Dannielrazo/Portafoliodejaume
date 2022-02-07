@@ -4,6 +4,15 @@
 <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
+## Desktop
+
+<img width="400px"  src="https://raw.githubusercontent.com/dannielrazo/design/portafolio.png" />
+
+
+## Mobile
+
+<img width="400px" src="https://raw.githubusercontent.com/uxcristopher/imagenes/main/Readmes/Fulario%20de%20pago/Mobile.jpg" />
+
 ## Disclaimer
 
 Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, el límite de la creación lo dictan tus ganas de hacerlo realidad y tu skills del momento a la hora de codear.
