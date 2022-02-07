@@ -5,12 +5,13 @@
 </div>
 
 ## Mobile
-![portfolio-1](https://user-images.githubusercontent.com/63891533/152889116-27c42b47-3bca-44bf-8797-ceeb2436ff21.png)
+![jaume-mobile](https://user-images.githubusercontent.com/63891533/152889785-5f9d9908-4640-4beb-82aa-155830362318.png)
+
 
 
 ## Desktop
+![jaume-desktop](https://user-images.githubusercontent.com/63891533/152889808-e5f2d793-e855-48d7-8f48-2fed49cfad20.png)
 
-![portfolio](https://user-images.githubusercontent.com/63891533/152888917-7d17ba46-6104-4031-9173-e8eedae11c3b.png)
 
 ## Disclaimer
 
