@@ -4,11 +4,11 @@
 <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
-## Desktop
+## Mobile
 ![portfolio-1](https://user-images.githubusercontent.com/63891533/152889116-27c42b47-3bca-44bf-8797-ceeb2436ff21.png)
 
 
-## Mobile
+## Desktop
 
 ![portfolio](https://user-images.githubusercontent.com/63891533/152888917-7d17ba46-6104-4031-9173-e8eedae11c3b.png)
 
