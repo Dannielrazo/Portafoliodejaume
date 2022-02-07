@@ -11,7 +11,7 @@
 
 ## Mobile
 
-<img width="400px" src="https://raw.githubusercontent.com/uxcristopher/imagenes/main/Readmes/Fulario%20de%20pago/Mobile.jpg" />
+<img width="400px" src="./design/portafolio.png" />
 
 ## Disclaimer
 
